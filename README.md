@@ -22,13 +22,13 @@ npm install -g @nestjs/cli
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ilesanmi-Erioluwa-Victor/Niyo_backend_task.git
+git clone https://github.com/Ilesanmi-Erioluwa-Victor/task_management_system.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Niyo_backend_task
+cd task_management_system
 ```
 3. Install dependencies: 
 
@@ -42,7 +42,7 @@ npm install
 ```# Database configuration
 DATABASE_URL=*******
 ```
-PS: The DATABASE_URL value is provided on the google docs file attached to my email respond
+PS: The DATABASE_URL value is provided on the google docs file attached to my email respond, due to Github strict rules against expose env variables 
 
 ### Running the Application
 To start the development server, run the following command:
